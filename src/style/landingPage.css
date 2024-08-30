@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.intro {
+  height: 450px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.button {
+  background-color: blue;
+  margin-right: 500px;
+  color: white;
+}
+
+.myBg {
+  height: 100vh;
+  background: url("../assets/image/wow1.p.jpg");
+  background-size: cover;
+
+}
+
+.myNavbar {
+  height: 100vh;
+  background: url("../assets/image/wowa.jpg");
+  background-size: cover;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2px;
+}
+
+.nama {
+  height: auto;
+  background: url("../assets/image/wowa1.jpg");
+  background-size: cover;
+  /* display: flex; */
+  padding: 5px;
+}
+
+/* .myIsi {
+  height: 100vh;
+  background: url("../assets/image/Laut Hati.jpg");
+  background-size: cover;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2px;
+} */
+
+.Navbar {
+  background-color: black;
+  height: 50px;
+  color: wheat;
+  display: flex;
+}
+
+.Isi {
+  width: 100%;
+  display: flex;
+}
+
+.Halaman {
+  width: 100%;
+  display: flex;
+  
+}
+.tulisan {
+  font-size: x-small;
+  color: rgb(252, 252, 252);
+  font-style: italic;
+  font-weight: 800;
+
+}
+
+.Foot {
+  background-color: #1b81f7;
+  list-style-type: lower-roman;
+}
+
+.img {
+  background: url("/hmm.jpg");
+}
+.Foot {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: stretch;
+  
+}
+
+.Foot1 img {
+  width: 20px;
+  height: 30px;
+}
+.Foot2 img {
+  width: 20px;
+  height: 30px;
+}
