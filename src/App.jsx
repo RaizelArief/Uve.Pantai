@@ -5,7 +5,6 @@ import Home from './Induk/Home';
 import "./style/landingPage.css";
 import Index from './Induk/Index';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { Link } from 'react-router-dom';
 
 const App = () => {
   return (
