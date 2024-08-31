@@ -4,9 +4,10 @@
 
 .intro {
   height: 450px;
-  display: flex;
-  justify-content: end;
-  align-items: end;
+  /* display: flex; */
+  background-repeat: no-repeat;
+  /* justify-content: end;
+  align-items: end; */
 }
 
 .button {
@@ -19,9 +20,10 @@
 }
 
 .myBg {
-  height: 100vh;
-  background: url("../assets/image/wow1.p.jpg");
-  background-size: cover;
+  background-image: url("../assets/image/wowa.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; /* Untuk mengatur ukuran gambar agar mencakup seluruh area */
+  background-position: center;
 
 }
 
@@ -84,8 +86,17 @@
 }
 
 .Foot1 img {
-  width: 20px;
+  width: 30px;
   height: 30px;
+}
+.Foot1 {
+  margin: 4px;
+  gap: 6px;
+}
+
+.Foot2 {
+  margin: 4px;
+  gap: 3px;
 }
 .Foot2 img {
   width: 30px;

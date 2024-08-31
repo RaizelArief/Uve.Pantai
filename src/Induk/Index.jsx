@@ -5,7 +5,7 @@ function Index() {
     return (
         <>
             <div className="myBg">
-                <Intro></Intro>
+                <Intro/>
             </div>
         </>
     )
