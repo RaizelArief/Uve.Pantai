@@ -4,7 +4,7 @@ function Isian() {
     return (
         <>
             <div className="Isi py-6 px-4 md:px-8" id="pengertian">
-                <div class="bg-scroll...">
+                <div class="bg-scroll... relative">
                     <img src="hmm.jpg" alt="" className="w-4/5" />
                 </div>
                 <div className=" mt-4 text-center md:text-left font-bold font-mono m-2 Tittle ">
