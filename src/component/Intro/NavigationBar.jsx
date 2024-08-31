@@ -15,7 +15,7 @@ function NavigationBar() {
                     <a href="#Halaman" className="text-lg md:text-base px-4 py-2 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-pink-500 duration-300 rounded-lg">
                         Aneka Pantai
                     </a>
-                    <a href="#footer" className="text-lg md:text-base px-4 py-2 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-violet-600 duration-300 rounded-lg">
+                    <a href="https://wa.me/6282112992879" className="text-lg md:text-base px-4 py-2 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-violet-600 duration-300 rounded-lg">
                         Contact
                     </a>
                 </div>
