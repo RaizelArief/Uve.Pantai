@@ -7,7 +7,8 @@ const Intro = () => {
         <>
             <div className="intro">
                 <div className="introButton ml-4 text-start">
-                    <button onClick={() => navigate('/index')} className="button">Pencet untuk ke halaman selanjutnya</button>
+                    <button onClick={() => navigate('/index')} className="sm:bg-red-600 shadow-lg shadow-emerald-500/15 min-w-5 ms-52
+                    lg:bg-blue-700 shadow-lg shadow-blue-500/50 button">Pencet untuk ke halaman selanjutnya</button>
                 </div>
             </div>
         </>

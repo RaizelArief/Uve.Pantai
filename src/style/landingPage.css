@@ -10,9 +10,12 @@
 }
 
 .button {
-  background-color: blue;
+  /* background-color: blue; */
   margin-right: 500px;
   color: white;
+  width: 400px;
+  height: 50px;
+  border-radius: 1.5rem  24px ;
 }
 
 .myBg {
@@ -39,14 +42,6 @@
   padding: 5px;
 }
 
-/* .myIsi {
-  height: 100vh;
-  background: url("../assets/image/Laut Hati.jpg");
-  background-size: cover;
-  display: flex;
-  flex-wrap: wrap;
-  padding: 2px;
-} */
 
 .Navbar {
   background-color: black;
@@ -67,9 +62,9 @@
 }
 .tulisan {
   font-size: x-small;
-  color: rgb(252, 252, 252);
-  font-style: italic;
-  font-weight: 800;
+  color: rgb(234, 2, 2);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 600;
 
 }
 
@@ -93,6 +88,46 @@
   height: 30px;
 }
 .Foot2 img {
-  width: 20px;
+  width: 30px;
   height: 30px;
 }
+.Halaman1 {
+  background-color: white;
+  width: 490px;
+  border-radius: 0.5rem  8px ;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Halaman2 {
+  background-color: white;
+  width: 490px;
+  border-radius: 0.5rem  8px ;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Halaman3 {
+  background-color: white;
+  width: 490px;
+  border-radius: 0.5rem  8px ;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Halaman4 {
+  background-color: white;
+  width: 490px;
+  border-radius: 0.5rem  8px ;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Halaman5 {
+  background-color: white;
+  width: 490px;
+  border-radius: 0.5rem  8px ;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+

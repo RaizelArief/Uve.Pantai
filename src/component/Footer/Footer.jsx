@@ -10,7 +10,7 @@ function Footer() {
                 </div>
 
                 <div className="Foot2 flex align-top">
-                    <img src="/instagram.png" alt="" className="image" />
+                    <img src="https://cdn-icons-png.flaticon.com/128/1384/1384015.png" alt="" className="image" />
                     <h1>@abbyan13</h1>
                 </div>
 
